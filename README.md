@@ -8,7 +8,7 @@ each drink, an itemised price breakdown, and a receipt with a grand total.
 
 This repository holds the API and the design write‑up. The web UI lives in its
 own repository,
-[ipassion-assignment-frontend](https://github.com/nNottp33/ipassion-assignment-frontend).
+[coffee-shop-frontend](https://github.com/nNottp33/coffee-shop-frontend).
 
 | Layer    | Tech                                              |
 | -------- | ------------------------------------------------- |
